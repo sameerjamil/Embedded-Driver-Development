@@ -1,0 +1,6 @@
+# Build outputs and temporary files
+build/
+*.o
+*.out
+*.log
+.DS_Store
